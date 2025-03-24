@@ -1,0 +1,11 @@
+# Ignore data files
+data/*.csv
+data/*.xlsx
+
+# Ignore model files
+models/*.pkl
+models/*.joblib
+
+# Ignore virtual enviornment files
+.venv/
+__pycahce__/
