@@ -9,3 +9,7 @@ models/*.joblib
 # Ignore virtual enviornment files
 .venv/
 __pycahce__/
+
+# Ignore SSH keys
+~/.ssh/id_ed25519
+~/.ssh/id_ed25519.pub
